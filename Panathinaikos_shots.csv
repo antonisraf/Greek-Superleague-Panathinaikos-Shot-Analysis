@@ -1,0 +1,248 @@
+player_name,minute,X,Y,is_goal,shotType,xg,body_part,situation,match_id
+Karol Świderski,61,19.0,52.7,0,block,0.061119440943003,right-foot,assisted,Yobsnbc#id:14151977
+Filip Đuričić,53,19.9,23.3,0,block,0.018543405458331,right-foot,assisted,Yobsnbc#id:14151977
+Karol Świderski,52,5.0,27.0,0,miss,0.022350300103426,left-foot,assisted,Yobsnbc#id:14151977
+Adam Gnezda Čerin,44,23.8,34.8,0,miss,0.030976336449385,right-foot,assisted,Yobsnbc#id:14151977
+Karol Świderski,43,12.0,57.0,0,block,0.030063247308135,head,throw-in-set-piece,Yobsnbc#id:14151977
+Anastasios Bakasetas,40,23.7,43.0,0,block,0.028814962133765,left-foot,regular,Yobsnbc#id:14151977
+Filip Đuričić,30,12.2,45.0,0,block,0.28098955750465,left-foot,assisted,Yobsnbc#id:14151977
+Karol Świderski,29,12.9,32.3,0,miss,0.046295214444399,left-foot,assisted,Yobsnbc#id:14151977
+Ahmed Touba,23,7.7,57.9,0,post,0.1004251614213,head,corner,Yobsnbc#id:14151977
+Karol Świderski,23,25.3,41.1,0,block,0.06804408878088,left-foot,free-kick,Yobsnbc#id:14151977
+Anastasios Bakasetas,16,20.7,53.8,0,miss,0.070481352508068,left-foot,regular,Yobsnbc#id:14151977
+Adam Gnezda Čerin,13,5.7,56.4,0,post,0.22723236680031,head,regular,Yobsnbc#id:14151977
+Davide Calabria,13,5.8,66.4,0,block,0.077845670282841,right-foot,assisted,Yobsnbc#id:14151977
+Davide Calabria,8,24.7,49.7,0,miss,0.011357113718987,right-foot,corner,Yobsnbc#id:14151977
+Adam Gnezda Čerin,6,11.0,39.3,0,miss,0.021687151864171,head,assisted,Yobsnbc#id:14151977
+Filip Đuričić,1,7.6,45.6,1,goal,0.37529307603836,right-foot,corner,Yobsnbc#id:14151977
+Davide Calabria,1,25.0,46.6,0,miss,0.021651539951563,left-foot,corner,Yobsnbc#id:14151977
+Andreas Tetteh,90,9.5,45.7,0,save,0.21859614551067,left-foot,fast-break,YobszeY#id:14151961
+Renato Sanches,84,6.6,49.3,0,miss,0.22669893503189,left-foot,corner,YobszeY#id:14151961
+Erik Palmer-Brown,84,10.7,37.0,0,miss,0.054409116506577,left-foot,corner,YobszeY#id:14151961
+Pavlos Pantelidis,79,7.4,56.0,1,goal,0.52147841453552,right-foot,fast-break,YobszeY#id:14151961
+Renato Sanches,72,11.2,42.8,0,save,0.13025410473347,right-foot,set-piece,YobszeY#id:14151961
+Anastasios Bakasetas,56,19.2,70.3,0,block,0.016350064426661,right-foot,regular,YobszeY#id:14151961
+Georgios Kyriakopoulos,56,27.2,31.6,0,block,0.0075491312891245,left-foot,assisted,YobszeY#id:14151961
+Karol Świderski,53,8.8,51.3,1,goal,0.78364306688309,right-foot,regular,YobszeY#id:14151961
+Pavlos Pantelidis,45,12.8,73.0,0,block,0.017252881079912,right-foot,assisted,YobszeY#id:14151961
+Andreas Tetteh,43,11.0,74.6,0,miss,0.02608129940927,right-foot,fast-break,YobszeY#id:14151961
+Filip Đuričić,33,18.7,64.0,0,block,0.05847442522645,left-foot,throw-in-set-piece,YobszeY#id:14151961
+Filip Đuričić,21,8.3,27.2,0,miss,0.049518864601851,left-foot,fast-break,YobszeY#id:14151961
+Karol Świderski,15,11.5,50.0,1,goal,0.7884,left-foot,penalty,YobszeY#id:14151961
+Andreas Tetteh,7,11.4,64.2,1,goal,0.17620630562305,right-foot,regular,YobszeY#id:14151961
+Davide Calabria,2,22.5,63.6,0,block,0.0070012621581554,right-foot,set-piece,YobszeY#id:14151961
+Renato Sanches,81,12.3,7.3,0,save,0.033590063452721,right-foot,free-kick,VobsYob#id:14151978
+Cyriel Dessers,48,15.1,49.5,1,goal,0.20662128925323,right-foot,assisted,VobsYob#id:14151978
+Cyriel Dessers,43,11.9,69.1,0,miss,0.025321723893285,right-foot,set-piece,VobsYob#id:14151978
+Georgios Kyriakopoulos,28,27.9,27.0,0,block,0.012723079882562,left-foot,assisted,VobsYob#id:14151978
+Erik Palmer-Brown,9,8.3,58.9,0,miss,0.051969710737467,head,set-piece,VobsYob#id:14151978
+Manolis Siopis,86,25.9,25.3,0,miss,0.016542987897992,right-foot,assisted,YobsePc#id:14151962
+Anastasios Bakasetas,67,22.5,55.7,0,block,0.024532482028008,left-foot,assisted,YobsePc#id:14151962
+Karol Świderski,63,4.5,57.7,0,miss,0.31960609555244,left-foot,assisted,YobsePc#id:14151962
+Anastasios Bakasetas,49,16.9,52.1,0,block,0.043393392115831,right-foot,assisted,YobsePc#id:14151962
+Anastasios Bakasetas,36,5.4,48.1,0,miss,0.60306173563004,right-foot,assisted,YobsePc#id:14151962
+Davide Calabria,33,23.2,54.6,0,block,0.033380277454853,left-foot,assisted,YobsePc#id:14151962
+Filip Đuričić,33,8.2,47.8,0,save,0.30006545782089,right-foot,assisted,YobsePc#id:14151962
+Karol Świderski,33,11.9,55.2,0,miss,0.033936608582735,head,assisted,YobsePc#id:14151962
+Pedro Chirivella,32,15.7,50.1,0,save,0.11045026034117,right-foot,assisted,YobsePc#id:14151962
+Anastasios Bakasetas,78,8.3,63.4,0,save,0.075686819851398,right-foot,assisted,Yobsmbc#id:14151988
+Georgios Kyriakopoulos,76,15.0,26.2,0,miss,0.026698587462306,left-foot,assisted,Yobsmbc#id:14151988
+Filip Đuričić,72,16.5,34.6,0,miss,0.044482324272394,right-foot,assisted,Yobsmbc#id:14151988
+Karol Świderski,69,11.4,46.4,0,miss,0.29583144187927,left-foot,assisted,Yobsmbc#id:14151988
+Sverrir Ingi Ingason,60,7.9,49.6,0,miss,0.08422976732254,head,corner,Yobsmbc#id:14151988
+Anastasios Bakasetas,60,20.1,66.9,0,block,0.070539131760597,left-foot,free-kick,Yobsmbc#id:14151988
+Anastasios Bakasetas,51,14.2,68.9,0,miss,0.051348946988583,right-foot,assisted,Yobsmbc#id:14151988
+Filip Đuričić,51,13.3,57.7,0,block,0.076936163008213,right-foot,assisted,Yobsmbc#id:14151988
+Adam Gnezda Čerin,48,7.9,50.1,1,goal,0.10893518477678,head,corner,Yobsmbc#id:14151988
+Karol Świderski,46,15.1,37.6,0,save,0.066482543945312,left-foot,assisted,Yobsmbc#id:14151988
+Georgios Kyriakopoulos,45,5.4,34.0,0,save,0.068195156753063,left-foot,regular,Yobsmbc#id:14151988
+Davide Calabria,41,12.9,54.4,0,block,0.080070324242115,right-foot,regular,Yobsmbc#id:14151988
+Adam Gnezda Čerin,39,23.1,33.1,0,miss,0.011043345555663,right-foot,regular,Yobsmbc#id:14151988
+Renato Sanches,32,21.9,49.1,0,save,0.039879240095615,left-foot,assisted,Yobsmbc#id:14151988
+Karol Świderski,28,14.1,46.6,0,miss,0.046591438353062,head,assisted,Yobsmbc#id:14151988
+Anastasios Bakasetas,20,16.0,44.4,0,save,0.15138754248619,left-foot,assisted,Yobsmbc#id:14151988
+Anastasios Bakasetas,9,17.8,62.4,0,save,0.049970168620348,left-foot,assisted,Yobsmbc#id:14151988
+Miloš Pantović,90,4.8,51.3,0,miss,0.252242654562,head,corner,Yobscpb#id:14151991
+Anastasios Bakasetas,73,28.5,56.0,0,block,0.034802205860615,left-foot,free-kick,Yobscpb#id:14151991
+Anastasios Bakasetas,65,13.2,70.3,0,block,0.039963684976101,right-foot,assisted,Yobscpb#id:14151991
+Anass Zaroury,49,23.8,24.4,0,save,0.019288379698992,right-foot,assisted,Yobscpb#id:14151991
+Adam Gnezda Čerin,48,22.0,46.0,0,miss,0.040064409375191,right-foot,assisted,Yobscpb#id:14151991
+Georgios Kyriakopoulos,41,22.2,27.6,0,miss,0.027139464393258,left-foot,assisted,Yobscpb#id:14151991
+Anastasios Bakasetas,40,27.2,47.7,0,miss,0.013737415894866,left-foot,assisted,Yobscpb#id:14151991
+Karol Świderski,18,11.6,60.7,0,miss,0.01762562058866,head,assisted,Yobscpb#id:14151991
+Karol Świderski,3,9.1,67.5,1,goal,0.25705224275589,right-foot,assisted,Yobscpb#id:14151991
+Ahmed Touba,90,7.7,56.6,0,block,0.038307581096888,head,corner,YobsRBc#id:14152000
+Miloš Pantović,88,6.3,49.5,0,miss,0.41587677598,head,assisted,YobsRBc#id:14152000
+Giannis Kotsiras,88,24.0,69.6,0,block,0.011973017826676,right-foot,assisted,YobsRBc#id:14152000
+Renato Sanches,72,24.7,32.5,0,block,0.026124669238925,right-foot,assisted,YobsRBc#id:14152000
+Georgios Kyriakopoulos,60,22.8,23.1,0,save,0.014082707464695,left-foot,assisted,YobsRBc#id:14152000
+Adam Gnezda Čerin,48,14.2,72.7,0,miss,0.029577093198895,right-foot,assisted,YobsRBc#id:14152000
+Karol Świderski,45,11.5,50.0,1,goal,0.7884,left-foot,penalty,YobsRBc#id:14152000
+Karol Świderski,45,9.1,47.9,0,save,0.064019188284874,head,assisted,YobsRBc#id:14152000
+Filip Đuričić,38,3.2,48.5,0,save,0.39268699288368,left-foot,corner,YobsRBc#id:14152000
+Adam Gnezda Čerin,30,16.0,59.7,0,miss,0.060587473213673,right-foot,regular,YobsRBc#id:14152000
+Anass Zaroury,21,17.3,27.2,0,save,0.012600097805262,right-foot,assisted,YobsRBc#id:14152000
+Karol Świderski,18,13.8,36.6,0,miss,0.11535042524338,left-foot,fast-break,YobsRBc#id:14152000
+Adam Gnezda Čerin,16,14.7,48.7,0,block,0.058695331215858,right-foot,regular,YobsRBc#id:14152000
+Anass Zaroury,16,12.3,49.7,0,block,0.10632123053074,right-foot,assisted,YobsRBc#id:14152000
+Adam Gnezda Čerin,5,20.1,40.7,0,save,0.031313080340624,right-foot,fast-break,YobsRBc#id:14152000
+Tin Jedvaj,90,14.1,70.5,0,block,0.027833815664053,right-foot,assisted,YobsjZgc#id:14152006
+Adam Gnezda Čerin,62,25.3,58.7,0,miss,0.017693948000669,left-foot,regular,YobsjZgc#id:14152006
+Filip Đuričić,62,9.6,50.1,0,block,0.47638413310051,right-foot,assisted,YobsjZgc#id:14152006
+Sverrir Ingi Ingason,60,4.8,51.9,0,miss,0.19306229054928,head,corner,YobsjZgc#id:14152006
+Karol Świderski,47,8.2,37.0,0,save,0.22990743815899,left-foot,assisted,YobsjZgc#id:14152006
+Ahmed Touba,32,4.1,50.4,0,miss,0.47886845469475,right-foot,corner,YobsjZgc#id:14152006
+Karol Świderski,31,21.5,47.4,0,block,0.047153230756521,left-foot,assisted,YobsjZgc#id:14152006
+Anass Zaroury,29,25.9,47.7,0,save,0.026520792394876,right-foot,assisted,YobsjZgc#id:14152006
+Karol Świderski,22,3.8,58.1,0,miss,0.23910291492939,left-foot,assisted,YobsjZgc#id:14152006
+Adam Gnezda Čerin,19,23.5,38.0,0,block,0.025734884664416,right-foot,assisted,YobsjZgc#id:14152006
+Anass Zaroury,89,4.8,32.9,0,block,0.048039868474007,left-foot,set-piece,Yobsbpb#id:14152018
+Anass Zaroury,66,23.6,28.2,0,miss,0.016397640109062,right-foot,assisted,Yobsbpb#id:14152018
+Tin Jedvaj,31,19.9,69.9,1,goal,0.030029019340873,right-foot,assisted,Yobsbpb#id:14152018
+Miloš Pantović,20,3.2,54.2,1,goal,0.81572473049164,right-foot,assisted,Yobsbpb#id:14152018
+Karol Świderski,86,8.4,49.0,0,block,0.087580397725105,head,assisted,YobsXBc#id:14152020
+Anass Zaroury,77,14.7,48.9,0,miss,0.064321659505367,right-foot,assisted,YobsXBc#id:14152020
+Anastasios Bakasetas,75,22.3,40.7,0,save,0.035637672990561,right-foot,assisted,YobsXBc#id:14152020
+Anastasios Bakasetas,69,13.2,40.3,1,goal,0.12515857815742,right-foot,assisted,YobsXBc#id:14152020
+Tin Jedvaj,60,10.1,45.1,1,goal,0.075364574790001,right-foot,corner,YobsXBc#id:14152020
+Tin Jedvaj,60,9.1,52.1,0,miss,0.10860710591078,right-foot,corner,YobsXBc#id:14152020
+Tin Jedvaj,55,4.3,56.4,0,miss,0.2859138250351,right-foot,set-piece,YobsXBc#id:14152020
+Anastasios Bakasetas,51,19.0,49.0,0,block,0.069266140460968,left-foot,assisted,YobsXBc#id:14152020
+Miloš Pantović,49,3.8,49.7,0,miss,0.7641903758049,right-foot,regular,YobsXBc#id:14152020
+Adam Gnezda Čerin,48,9.2,52.4,0,save,0.30211529135704,right-foot,regular,YobsXBc#id:14152020
+Anastasios Bakasetas,46,16.0,34.0,0,save,0.026374649256468,left-foot,assisted,YobsXBc#id:14152020
+Anass Zaroury,40,12.6,47.9,1,goal,0.20432534813881,right-foot,fast-break,YobsXBc#id:14152020
+Erik Palmer-Brown,35,9.9,57.9,0,miss,0.029178630560637,head,corner,YobsXBc#id:14152020
+Anastasios Bakasetas,34,21.3,72.4,0,block,0.011433990672231,left-foot,regular,YobsXBc#id:14152020
+Tin Jedvaj,32,9.4,53.7,0,miss,0.01522599067539,other,corner,YobsXBc#id:14152020
+Filip Đuričić,90,19.6,24.3,0,miss,0.0083084087818861,right-foot,set-piece,Yobsapb#id:14152030
+Cyriel Dessers,90,9.7,40.0,0,miss,0.02960959635675,head,set-piece,Yobsapb#id:14152030
+Filip Đuričić,90,18.5,49.3,1,goal,0.087395519018173,left-foot,assisted,Yobsapb#id:14152030
+Miloš Pantović,89,10.7,48.7,0,save,0.02605589106679,head,corner,Yobsapb#id:14152030
+Miloš Pantović,87,6.7,39.1,0,miss,0.027857851237059,head,corner,Yobsapb#id:14152030
+Erik Palmer-Brown,86,22.8,28.6,0,block,0.016995806246996,left-foot,assisted,Yobsapb#id:14152030
+Adam Gnezda Čerin,76,11.9,53.8,0,miss,0.096908144652843,right-foot,assisted,Yobsapb#id:14152030
+Erik Palmer-Brown,35,7.7,52.3,0,miss,0.20530533790588,head,corner,Yobsapb#id:14152030
+Pedro Chirivella,31,17.9,64.8,0,save,0.01182927377522,right-foot,corner,Yobsapb#id:14152030
+Anass Zaroury,30,22.2,28.9,0,block,0.047483466565609,right-foot,free-kick,Yobsapb#id:14152030
+Karol Świderski,28,11.5,50.0,0,save,0.7884,left-foot,penalty,Yobsapb#id:14152030
+Anastasios Bakasetas,15,28.8,65.2,0,block,0.032396547496319,left-foot,free-kick,Yobsapb#id:14152030
+Anass Zaroury,12,16.3,46.4,0,block,0.1319096237421,right-foot,assisted,Yobsapb#id:14152030
+Cyriel Dessers,90,15.7,66.4,0,save,0.037438686937094,left-foot,corner,Yobsppb#id:14152032
+Erik Palmer-Brown,90,9.5,49.0,0,block,0.071136184036732,head,corner,Yobsppb#id:14152032
+Anastasios Bakasetas,74,11.5,50.0,1,goal,0.7884,left-foot,penalty,Yobsppb#id:14152032
+Anastasios Bakasetas,52,23.2,47.7,0,save,0.035870525985956,left-foot,regular,Yobsppb#id:14152032
+Anastasios Bakasetas,48,22.3,57.9,0,miss,0.035467069596052,left-foot,assisted,Yobsppb#id:14152032
+Anastasios Bakasetas,45,23.9,64.6,0,block,0.011756604537368,left-foot,set-piece,Yobsppb#id:14152032
+Davide Calabria,43,12.0,49.1,1,goal,0.037654925137758,head,assisted,Yobsppb#id:14152032
+Ahmed Touba,19,9.9,49.3,0,save,0.039206985384226,head,corner,Yobsppb#id:14152032
+Anastasios Bakasetas,79,23.1,58.5,0,block,0.034453392028809,right-foot,assisted,YobsjZgc#id:14152045
+Filip Đuričić,78,13.6,32.1,0,miss,0.029130797833204,right-foot,set-piece,YobsjZgc#id:14152045
+Anastasios Bakasetas,38,14.4,56.8,0,block,0.11288682371378,left-foot,regular,YobsjZgc#id:14152045
+Cyriel Dessers,31,7.7,41.1,0,miss,0.032619800418615,head,corner,YobsjZgc#id:14152045
+Cyriel Dessers,28,7.4,67.7,0,miss,0.030716847628355,right-foot,assisted,YobsjZgc#id:14152045
+Anastasios Bakasetas,22,11.5,50.0,1,goal,0.7884,left-foot,penalty,YobsjZgc#id:14152045
+Cyriel Dessers,5,15.0,61.5,1,goal,0.074736766517162,right-foot,assisted,YobsjZgc#id:14152045
+Anastasios Bakasetas,71,12.4,66.6,0,miss,0.16996152698994,right-foot,fast-break,Yobsbpb#id:14152052
+Karol Świderski,40,11.0,31.2,0,miss,0.050304245203733,left-foot,assisted,Yobsbpb#id:14152052
+Tin Jedvaj,7,6.9,67.3,0,save,0.04453631862998,right-foot,set-piece,Yobsbpb#id:14152052
+Andreas Tetteh,90,15.0,37.8,0,save,0.067642815411091,right-foot,assisted,YobsXBc#id:14159112
+Georgios Kyriakopoulos,90,21.6,31.8,0,save,0.033198133111,right-foot,assisted,YobsXBc#id:14159112
+Giannis Bokos,80,5.2,52.8,0,miss,0.37372481822968,head,assisted,YobsXBc#id:14159112
+Renato Sanches,76,28.8,42.1,0,block,0.015090810135007,right-foot,assisted,YobsXBc#id:14159112
+Andreas Tetteh,74,9.3,71.2,0,block,0.019011640921235,right-foot,assisted,YobsXBc#id:14159112
+Andreas Tetteh,58,9.5,45.8,0,miss,0.060620341449976,head,assisted,YobsXBc#id:14159112
+Andreas Tetteh,57,9.0,41.0,0,save,0.019505076110363,head,corner,YobsXBc#id:14159112
+Andreas Tetteh,56,21.2,66.9,0,save,0.025059638544917,right-foot,regular,YobsXBc#id:14159112
+Adam Gnezda Čerin,56,19.4,52.2,0,block,0.078948266804218,right-foot,assisted,YobsXBc#id:14159112
+Andreas Tetteh,53,8.7,45.5,0,miss,0.15085643529892,head,assisted,YobsXBc#id:14159112
+Giannis Kotsiras,47,26.0,35.4,0,save,0.01779250241816,right-foot,assisted,YobsXBc#id:14159112
+Filip Đuričić,45,19.5,71.4,0,miss,0.027482120320201,right-foot,fast-break,YobsXBc#id:14159112
+Tin Jedvaj,39,5.5,52.1,1,goal,0.18192285299301,head,corner,YobsXBc#id:14159112
+Anass Zaroury,24,9.3,31.8,0,miss,0.033529825508595,right-foot,assisted,YobsXBc#id:14159112
+Facundo Pellistri,20,15.9,46.6,0,save,0.095154762268066,left-foot,assisted,YobsXBc#id:14159112
+Anass Zaroury,19,22.6,36.2,0,block,0.018118916079402,right-foot,assisted,YobsXBc#id:14159112
+Anass Zaroury,15,11.5,50.0,1,goal,0.7884,right-foot,penalty,YobsXBc#id:14159112
+Filip Đuričić,4,7.6,49.4,1,goal,0.71217268705368,right-foot,set-piece,YobsXBc#id:14159112
+Filip Đuričić,4,11.5,50.0,0,save,0.7884,right-foot,penalty,YobsXBc#id:14159112
+Andreas Tetteh,86,6.2,44.5,0,miss,0.19944927096367,head,assisted,Yobsapb#id:14159111
+Renato Sanches,74,13.0,51.2,0,miss,0.01937897503376,head,corner,Yobsapb#id:14159111
+Facundo Pellistri,73,17.6,39.9,0,block,0.060442578047514,right-foot,assisted,Yobsapb#id:14159111
+Adam Gnezda Čerin,47,15.8,45.6,0,block,0.027018619701266,right-foot,set-piece,Yobsapb#id:14159111
+Anastasios Bakasetas,33,24.8,52.7,0,block,0.026703588664532,right-foot,regular,Yobsapb#id:14159111
+Andreas Tetteh,31,3.4,56.3,0,save,0.24292594194412,head,assisted,Yobsapb#id:14159111
+Anass Zaroury,31,12.6,23.3,0,miss,0.040142275393009,right-foot,regular,Yobsapb#id:14159111
+Andreas Tetteh,31,23.7,35.6,0,block,0.015968199819326,left-foot,regular,Yobsapb#id:14159111
+Anastasios Bakasetas,26,20.6,63.2,0,save,0.020081296563148,left-foot,regular,Yobsapb#id:14159111
+Facundo Pellistri,21,13.9,28.6,0,save,0.023373056203127,right-foot,corner,Yobsapb#id:14159111
+Adam Gnezda Čerin,2,15.1,36.2,0,miss,0.055847249925137,right-foot,set-piece,Yobsapb#id:14159111
+Tin Jedvaj,2,12.6,44.6,0,block,0.019469752907753,head,set-piece,Yobsapb#id:14159111
+Anass Zaroury,90,11.0,46.6,0,miss,0.053116515278816,head,assisted,Yobsmbc#id:14159125
+Ahmed Touba,65,7.6,34.6,0,save,0.12087200582027,left-foot,assisted,Yobsmbc#id:14159125
+Andreas Tetteh,62,8.3,49.3,0,miss,0.24013932049274,head,assisted,Yobsmbc#id:14159125
+Andreas Tetteh,55,25.7,48.1,0,block,0.038294419646263,right-foot,assisted,Yobsmbc#id:14159125
+Pedro Chirivella,50,24.1,51.9,0,save,0.046686161309481,right-foot,assisted,Yobsmbc#id:14159125
+Anass Zaroury,47,13.3,48.1,0,miss,0.029654905200005,head,assisted,Yobsmbc#id:14159125
+Renato Sanches,47,20.7,27.6,0,block,0.020690849050879,right-foot,assisted,Yobsmbc#id:14159125
+Georgios Kyriakopoulos,45,5.1,41.5,0,save,0.13852234184742,left-foot,assisted,Yobsmbc#id:14159125
+Sverrir Ingi Ingason,15,10.8,50.3,0,miss,0.026515522971749,head,corner,Yobsmbc#id:14159125
+Renato Sanches,86,11.0,47.2,0,miss,0.40084639191628,left-foot,assisted,YobszeY#id:14159131
+Vicente Taborda,84,7.9,53.0,1,goal,0.30239251255989,left-foot,regular,YobszeY#id:14159131
+Adam Gnezda Čerin,84,18.4,51.7,0,save,0.10470680892467,left-foot,regular,YobszeY#id:14159131
+Karol Świderski,84,8.8,64.4,0,miss,0.11030639708042,left-foot,assisted,YobszeY#id:14159131
+Karol Świderski,81,8.2,64.8,1,goal,0.30735570192337,left-foot,assisted,YobszeY#id:14159131
+Anastasios Bakasetas,77,9.5,59.5,0,miss,0.1737398058176,right-foot,assisted,YobszeY#id:14159131
+Andreas Tetteh,65,1.7,56.0,0,save,0.22109608352184,right-foot,set-piece,YobszeY#id:14159131
+Tin Jedvaj,65,8.2,57.3,0,miss,0.078855618834496,right-foot,set-piece,YobszeY#id:14159131
+Sotiris Kontouris,59,11.4,56.0,0,save,0.29915484786034,right-foot,assisted,YobszeY#id:14159131
+Georgios Kyriakopoulos,43,15.0,38.3,0,block,0.045295726507902,left-foot,corner,YobszeY#id:14159131
+Renato Sanches,36,28.5,52.8,0,block,0.038965836167336,right-foot,free-kick,YobszeY#id:14159131
+Andreas Tetteh,32,13.3,45.6,0,miss,0.084906175732613,right-foot,assisted,YobszeY#id:14159131
+Andreas Tetteh,21,13.0,40.5,1,goal,0.059240002185106,right-foot,assisted,YobszeY#id:14159131
+Andreas Tetteh,19,12.3,35.6,0,miss,0.022236181423068,head,set-piece,YobszeY#id:14159131
+Pavlos Pantelidis,80,3.8,51.5,0,miss,0.8850930929184,right-foot,assisted,VobsYob#id:14159139
+Santino Andino,73,21.3,34.8,0,save,0.041644774377346,right-foot,fast-break,VobsYob#id:14159139
+Santino Andino,62,22.9,37.6,0,save,0.048258852213621,right-foot,regular,VobsYob#id:14159139
+Sverrir Ingi Ingason,56,13.3,65.2,0,save,0.0094299586489797,head,assisted,VobsYob#id:14159139
+Andreas Tetteh,38,5.2,66.0,0,miss,0.079551756381989,right-foot,fast-break,VobsYob#id:14159139
+Erik Palmer-Brown,37,11.6,46.2,0,miss,0.035113126039505,head,set-piece,VobsYob#id:14159139
+Andreas Tetteh,31,8.8,44.4,0,miss,0.18201035261154,head,assisted,VobsYob#id:14159139
+Vicente Taborda,7,3.1,61.7,1,goal,0.15193030238152,right-foot,regular,VobsYob#id:14159139
+Adam Gnezda Čerin,87,8.2,48.5,0,miss,0.087646625936031,head,regular,Yobsppb#id:14159147
+Anass Zaroury,83,26.6,27.9,0,miss,0.018630819395185,right-foot,regular,Yobsppb#id:14159147
+Adam Gnezda Čerin,83,24.0,42.3,0,block,0.02888996899128,right-foot,assisted,Yobsppb#id:14159147
+Anastasios Bakasetas,74,14.8,41.1,0,block,0.11033646762371,right-foot,assisted,Yobsppb#id:14159147
+Anass Zaroury,72,7.3,27.9,0,save,0.031046759337187,left-foot,assisted,Yobsppb#id:14159147
+Anastasios Bakasetas,67,20.6,52.6,1,goal,0.046089794486761,left-foot,assisted,Yobsppb#id:14159147
+Anass Zaroury,64,20.0,24.6,0,block,0.011503875255585,right-foot,assisted,Yobsppb#id:14159147
+Karol Świderski,62,10.2,49.3,0,save,0.02868914231658,head,corner,Yobsppb#id:14159147
+Miloš Pantović,62,7.7,41.9,0,block,0.035285692662001,head,corner,Yobsppb#id:14159147
+Davide Calabria,56,5.4,43.8,0,save,0.21109163761139,left-foot,regular,Yobsppb#id:14159147
+Vicente Taborda,53,22.3,53.2,0,miss,0.025796381756663,right-foot,corner,Yobsppb#id:14159147
+Karol Świderski,46,13.6,55.4,0,block,0.049032922834158,left-foot,regular,Yobsppb#id:14159147
+Adam Gnezda Čerin,46,11.3,46.2,0,block,0.091213956475258,right-foot,regular,Yobsppb#id:14159147
+Javier Hernández,46,12.2,41.1,0,block,0.12992036342621,right-foot,regular,Yobsppb#id:14159147
+Vicente Taborda,46,14.4,50.3,0,block,0.060158766806126,right-foot,regular,Yobsppb#id:14159147
+Vicente Taborda,34,19.4,26.1,0,block,0.043808158487082,right-foot,free-kick,Yobsppb#id:14159147
+Davide Calabria,90,11.5,50.0,1,goal,0.7884,right-foot,penalty,QobsYob#id:14159157
+Karol Świderski,84,15.4,62.3,0,block,0.037647556513548,left-foot,assisted,QobsYob#id:14159157
+Adam Gnezda Čerin,82,26.8,71.4,0,save,0.017263378947973,left-foot,assisted,QobsYob#id:14159157
+Anass Zaroury,71,13.8,33.7,0,block,0.023353107273579,left-foot,regular,QobsYob#id:14159157
+Santino Andino,59,15.5,43.1,0,miss,0.11963736265898,right-foot,assisted,QobsYob#id:14159157
+Sverrir Ingi Ingason,45,9.5,51.3,0,miss,0.040962129831314,head,corner,QobsYob#id:14159157
+Davide Calabria,42,21.8,64.2,0,miss,0.013095850124955,left-foot,corner,QobsYob#id:14159157
+Santino Andino,38,13.1,44.6,0,block,0.079777643084526,right-foot,regular,QobsYob#id:14159157
+Georgios Kyriakopoulos,32,24.1,65.4,0,miss,0.050846945494413,left-foot,free-kick,QobsYob#id:14159157
+Georgios Kyriakopoulos,20,19.8,33.3,0,block,0.022206639871001,left-foot,corner,QobsYob#id:14159157
+Pavlos Pantelidis,14,10.5,65.0,0,save,0.1234849318862,right-foot,assisted,QobsYob#id:14159157
+Andreas Tetteh,6,12.8,66.0,1,goal,0.11246157437563,right-foot,assisted,QobsYob#id:14159157
+Moussa Sissoko,90,25.4,31.5,0,miss,0.024318505078554,right-foot,assisted,Yobscpb#id:14159161
+Andreas Tetteh,80,3.2,45.3,1,goal,0.76111781597137,right-foot,set-piece,Yobscpb#id:14159161
+Vicente Taborda,65,12.3,54.3,1,goal,0.4515740275383,right-foot,assisted,Yobscpb#id:14159161
+Karol Świderski,64,21.3,53.7,0,miss,0.096206918358803,left-foot,assisted,Yobscpb#id:14159161
+Filip Đuričić,57,17.3,52.3,0,block,0.1285390406847,right-foot,set-piece,Yobscpb#id:14159161
+Tin Jedvaj,45,7.0,46.4,0,miss,0.11327127367258,head,set-piece,Yobscpb#id:14159161
+Sotiris Kontouris,30,26.6,69.4,0,miss,0.01914120092988,right-foot,assisted,Yobscpb#id:14159161
+Karol Świderski,23,13.0,59.3,0,miss,0.044470358639956,left-foot,assisted,Yobscpb#id:14159161
+Javier Hernández,9,3.0,45.2,1,goal,0.60855823755264,right-foot,corner,Yobscpb#id:14159161
+Karol Świderski,8,10.5,65.4,0,block,0.11301519721746,left-foot,fast-break,Yobscpb#id:14159161
