@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-df = pd.read_csv('pao_full_stats_with_minutes.csv')
+df = pd.read_csv('data/pao_full_stats_with_minutes.csv')
 
 df = df[df['shotType'] != 'block']
 

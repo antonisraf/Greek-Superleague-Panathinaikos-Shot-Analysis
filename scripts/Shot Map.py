@@ -2,7 +2,7 @@ import pandas as pd
 from mplsoccer import Pitch
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('pao_full_stats_with_minutes.csv')
+df = pd.read_csv('data/pao_full_stats_with_minutes.csv')
 df = df[['player_name', 'X', 'Y', 'shotType', 'is_goal', 'xg']]
 df = df[df['shotType'] != "Penalty"]
 
