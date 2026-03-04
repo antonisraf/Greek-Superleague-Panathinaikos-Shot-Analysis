@@ -1,4 +1,4 @@
-# Panathinaikos FC Shot Analytics ☘️
+# Greek Superleague: Panathinaikos Shot Analysis ☘️
 
 ## Overview
 A football analytics project focused on scraping, processing, and visualizing shot data for Panathinaikos FC. This repository tracks the relationship between Expected Goals (xG) and actual scoring performance to evaluate finishing quality.
