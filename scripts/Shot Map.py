@@ -6,6 +6,7 @@ df = pd.read_csv('data/pao_full_stats_with_minutes.csv')
 df = df[['player_name', 'X', 'Y', 'shotType', 'is_goal', 'xg']]
 df = df[df['shotType'] != "Penalty"]
 
+
 pitch = Pitch(pitch_type='opta', pitch_color='#22312b', line_color='#c7d5cc')
 fig, ax = pitch.draw(figsize=(13, 8))
 

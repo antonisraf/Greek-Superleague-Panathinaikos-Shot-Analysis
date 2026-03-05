@@ -4,7 +4,7 @@ import numpy as np
 
 df = pd.read_csv('data/pao_full_stats_with_minutes.csv')
 
-df = df[df['shotType'] != 'block']
+
 
 analysis = df.groupby('player_name').agg({
     'is_goal': 'sum',
