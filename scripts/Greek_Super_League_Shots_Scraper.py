@@ -32,7 +32,8 @@ urls = [
     "https://www.sofascore.com/football/match/ae-larisa-panathinaikos/Yobsppb#id:14159147",
     "https://www.sofascore.com/football/match/panathinaikos-ofi-crete/QobsYob#id:14159157",
     "https://www.sofascore.com/football/match/aris-thessaloniki-panathinaikos/Yobscpb#id:14159161",
-    "https://www.sofascore.com/football/match/panathinaikos-fc-ofi-crete/QobsYob#id:15477451"
+    "https://www.sofascore.com/football/match/panathinaikos-fc-ofi-crete/QobsYob#id:15477451",
+    "https://www.sofascore.com/football/match/apo-levadiakos-panathinaikos/Yobsnbc#id:14159167"
 ]
 
 pao_players = [
