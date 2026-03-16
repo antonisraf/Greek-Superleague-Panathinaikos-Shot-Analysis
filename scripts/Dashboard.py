@@ -27,7 +27,7 @@ gs = fig.add_gridspec(2, 2, hspace=0.3, wspace=0.15)
 axs = gs.subplots()
 
 
-fig.suptitle('Panathinaikos Shot Analysis - 8/3/26', fontsize=28, fontweight='bold', y=0.97)
+fig.suptitle('Panathinaikos Shot Analysis - AS 15/3/26', fontsize=28, fontweight='bold', y=0.97)
 
 for i, ax in enumerate(axs.flat):
     if os.path.exists(images[i]):
