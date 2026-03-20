@@ -5,7 +5,7 @@ A comprehensive football analytics project focused on scraping, processing, and 
 
 ## Live Application
 The interactive dashboard is deployed and accessible via Streamlit Cloud:
-https://greek-superleague-panathinaikos-shot-analysis-7xdxamygopp4yrtf.streamlit.app/
+https://panathinaikos-shot-analysis.streamlit.app/
 
 ## Project Structure
 The repository is organized into a modular structure for better maintainability:
