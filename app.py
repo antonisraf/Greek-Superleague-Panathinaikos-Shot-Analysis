@@ -4,6 +4,7 @@ from mplsoccer import Pitch
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 import re
+import base64
 
 # ─────────────────────────────────────────────
 #  PAGE CONFIG
@@ -111,7 +112,7 @@ h3 {
 
 hr { border-color: #1e3528 !important; }
 
-/* pyplot containers — force same bg */
+/* pyplot containers */
 [data-testid="stImage"] img { border-radius: 8px; }
 </style>
 """, unsafe_allow_html=True)
@@ -151,6 +152,7 @@ def load_data():
             ("15477451", "ofi"),
             ("14159167", "levadiakos"),
             ("14159174", "panetolikos"),
+            ("14159179","asteras")
         ]
 
         team_names = {
@@ -201,8 +203,6 @@ df, match_order = load_data()
 # ─────────────────────────────────────────────
 #  SIDEBAR
 # ─────────────────────────────────────────────
-import base64
-
 def get_logo_b64(path):
     with open(path, "rb") as f:
         return base64.b64encode(f.read()).decode()
@@ -257,43 +257,23 @@ if not df.empty:
     if selected_player != "Όλη η Ομάδα":
         filtered_df = filtered_df[filtered_df['player_name'] == selected_player]
 
-    # Minutes
-    total_mins   = 0
-    show_minutes = selected_player != "Όλη η Ομάδα"
-    if show_minutes:
-        if selected_match != "Όλοι οι Αγώνες":
-            total_mins = int(filtered_df['minute'].max()) if not filtered_df.empty else 0
-            min_text   = f" &nbsp;·&nbsp; {total_mins}'"
-        else:
-            total_mins = int(df[df['player_name'] == selected_player].groupby('match_id')['minute'].max().sum())
-            min_text   = f" &nbsp;·&nbsp; {total_mins}' total"
-    else:
-        min_text = ""
-
     match_text = selected_match if selected_match != "Όλοι οι Αγώνες" else "All Matches"
 
     st.markdown(f"""
     <h1>
-        <span style="color:#00a651;">{selected_player}</span>{min_text}
+        <span style="color:#00a651;">{selected_player}</span>
         <span style="font-weight:300;font-size:1.3rem;color:#7a9c85;margin-left:14px;">— {match_text}</span>
     </h1>
     """, unsafe_allow_html=True)
 
-    # Metrics (3 only — no conversion)
+    # Metrics
     actual_g   = int(filtered_df['is_goal'].sum())
     expected_g = filtered_df['xg'].sum()
 
-    if show_minutes:
-        c1, c2, c3, c4 = st.columns(4)
-        c1.metric("Σύνολο Σουτ", len(filtered_df))
-        c2.metric("Γκολ",        actual_g)
-        c3.metric("xG",          f"{expected_g:.2f}")
-        c4.metric("Λεπτά",       f"{total_mins}'")
-    else:
-        c1, c2, c3 = st.columns(3)
-        c1.metric("Σύνολο Σουτ", len(filtered_df))
-        c2.metric("Γκολ",        actual_g)
-        c3.metric("xG",          f"{expected_g:.2f}")
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Σύνολο Σουτ", len(filtered_df))
+    c2.metric("Γκολ",        actual_g)
+    c3.metric("xG",          f"{expected_g:.2f}")
 
     st.divider()
 
@@ -396,7 +376,7 @@ if not df.empty:
             num_players = len(eff_df)
             eff_df = eff_df.sort_values('xg', ascending=False).reset_index(drop=True)
 
-            COL_W     = 0.45   # inches per player column
+            COL_W     = 0.45
             fig_width = max(7, num_players * COL_W + 1.5)
             bar_width = 0.18
             font_size = 8
@@ -410,30 +390,30 @@ if not df.empty:
             max_val = max(eff_df['is_goal'].max(), eff_df['xg'].max())
             ax3.set_ylim(0, max(1.2, max_val + max_val * 0.18 + 0.3))
 
-            # xG bars (left of center)
+            # xG bars (Left) - White
             ax3.bar(
                 [p - gap for p in x_pos], eff_df['xg'],
                 width=bar_width, label='xG',
-                color='#1b5e35', alpha=0.95,
-                edgecolor='#3a6649', linewidth=0.4,
+                color='#ffffff', alpha=0.9,
+                edgecolor='#cccccc', linewidth=0.4,  # ✅ ΔΙΟΡΘΩΣΗ
             )
-            # Goals bars (right of center)
+            # Goals bars (Right) - Green
             ax3.bar(
                 [p + gap for p in x_pos], eff_df['is_goal'],
                 width=bar_width, label='Γκολ',
                 color='#00a651',
-                edgecolor='#5dd68a', linewidth=0.4,
+                edgecolor='#5dd68a', linewidth=0.4,  # ✅ ΔΙΟΡΘΩΣΗ
             )
 
-            # Value labels on top of bars
+            # Value labels
             for i, (_, row) in enumerate(eff_df.iterrows()):
                 if row['xg'] > 0:
                     ax3.text(i - gap, row['xg'] + max_val * 0.02,
                              f"{row['xg']:.2f}", ha='center', va='bottom',
-                             color='#7a9c85', fontsize=font_size - 0.5)
+                             color='#ffffff', fontsize=font_size - 0.5)
                 ax3.text(i + gap, row['is_goal'] + max_val * 0.02,
                          f"{int(row['is_goal'])}", ha='center', va='bottom',
-                         color='#e8f0eb', fontsize=font_size - 0.5)
+                         color='#00a651', fontsize=font_size - 0.5, fontweight='bold')
 
             ax3.set_xticks(x_pos)
             ax3.set_xticklabels(
